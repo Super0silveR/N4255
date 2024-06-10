@@ -46,7 +46,7 @@ Dans le cadre de ce projet les restrictions principales sont l'usage du Python c
 
 Cet outil interagit avec plusieurs API simultanément afin de pouvoir obtenir des résultats. Il est pratique de visualiser un cycle de fonctionnement afin d’identifier la forme du programme
 
-[image] 
+![alt text](https://github.com/Super0silveR/N4255/blob/main/Diagramme%20de%20requetes.png?raw=true)
 
 ### Fichiers fournis
 
