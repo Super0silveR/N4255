@@ -24,7 +24,7 @@ pip install levenshtein
 Lancer main.py
 >>> Entrer le domaine a explorer : Vide par défaut
 >>> Entrer le seuil de confiance AbuseIPDB 0-100 (Le plus bas le mieux) : 0 par défaut
->>> Entrer le seuil de confiance  
+>>> Entrer le seuil de ressemblance   0-100 (Le plus bas le mieux) : 0 par défaut
 >>> Confirmer l'observation de données sur le terminal : Non par défaut
 ```
 
