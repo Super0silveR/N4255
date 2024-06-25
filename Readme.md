@@ -99,6 +99,3 @@ Tel que proposé par la consigne j'ai eu à changer le code et ajouter les libra
 - json : afin d'avoir un accès plus simple aux données des réponses a nos requêtes.
 - Lavenshtein : afin d'obtenir des méthodes pour calculer les ressemblances des noms de domaines.
 - dateTime : Afin d'avoir des horaires sur les différentes sorties obtenues.
-
-
-Au plaisir de pouvoir en discuter avec vous!
